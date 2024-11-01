@@ -1,0 +1,13 @@
+{
+  "id": "fabric-link",
+  "name": "Fabric Link",
+  "version": "v1.0.0-beta.1",
+  "minAppVersion": "0.15.0",
+  "description": "Create links to Fabric documents",
+  "author": "dps",
+  "authorUrl": "https://github.com/yourusername",
+  "isDesktopOnly": false,
+  "permissions": [
+    "requestUrl"
+  ]
+}
